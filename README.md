@@ -19,3 +19,4 @@ Big-O gösterimini yazınız.
    Best case: O(nlog(n))
    
   
+www.patika.dev
